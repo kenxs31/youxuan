@@ -1,5 +1,5 @@
-````// 设置优选地址api接口
-let addressesapi = [
+##// 设置优选地址api接口
+````let addressesapi = [
 	'https://mirror.ghproxy.com/https://raw.githubusercontent.com/yutian81/freefq/main/yip', //可参考内容格式 自行搭建。
 	'https://addressesapi.090227.xyz/CloudFlareYes',
 	'https://addressesapi.090227.xyz/ct',
