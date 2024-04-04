@@ -33,6 +33,6 @@ hk.rweek.top:2052
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yu******/freefq/main/yip  `自行搭建的，隐藏掉`  
 https://addressesapi.090227.xyz/CloudFlareYes  
 https://addressesapi.090227.xyz/ct  
-https://ipdb.api.030101.xyz/?type=bestproxy&country=true  
+https://ipdb.api.030101.xyz/?type=bestproxy;bestcf&country=true  
 https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt  
 https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt `IPv6优选内容格式 自行搭建`  
