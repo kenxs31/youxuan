@@ -23,12 +23,19 @@ proxyip.aliyun.fxxk.dedyn.io  `IP落地区域: 阿里云 维护频率: 4小时/�
 proxyip.oracle.fxxk.dedyn.io  `IP落地区域: 甲骨文 维护频率: 4小时/次`  
 proxyip.digitalocean.fxxk.dedyn.io  `IP落地区域: 数码海 维护频率: 4小时/次`  
 ## 优选域名推荐
-cfip.xxxxxxxx.tk:2096  
-cdn.kaiche.tk:2096  
-c.xf.free.hr:2087  
-cf.090227.xyz:443  
-sp.rweek.top:443  
-hk.rweek.top:2052  
+cfip.xxxxxxxx.tk:2096#优选域名  
+cdn.kaiche.tk:2096#优选域名  
+c.xf.free.hr:2087#优选域名  
+cf.090227.xyz:443#优选域名  
+sp.rweek.top:443#优选域名  
+hk.rweek.top:2052#优选域名  
+acjp2.cloudflarest.link#联通高速  
+acsg.cloudflarest.link#联通高速  
+acsg3.cloudflarest.link#联通高速  
+acjp2.cloudflarest.link#移动高速  
+acsg3.cloudflarest.link#移动高速  
+acsg3.cloudflarest.link#电信高速  
+acsg.cloudflarest.link#电信高速  
 ## 优选IP api接口
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yu******/freefq/main/yip  `自行搭建的，隐藏掉`  
 https://addressesapi.090227.xyz/CloudFlareYes  `来自项目：https://cf.090227.xyz/`  
