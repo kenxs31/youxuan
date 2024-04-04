@@ -22,13 +22,13 @@ proxyip.hk.fxxk.dedyn.io  `IP落地区域: 香港 维护频率: 12小时/次`
 proxyip.aliyun.fxxk.dedyn.io  `IP落地区域: 阿里云 维护频率: 4小时/次`  
 proxyip.oracle.fxxk.dedyn.io  `IP落地区域: 甲骨文 维护频率: 4小时/次`  
 proxyip.digitalocean.fxxk.dedyn.io  `IP落地区域: 数码海 维护频率: 4小时/次`  
-acjp2.cloudflarest.link`联通高速 日本`  
-acsg.cloudflarest.link`联通高速  新加坡`  
-acsg3.cloudflarest.link`联通高速  新加坡`  
-acjp2.cloudflarest.link`移动高速 日本`  
-acsg3.cloudflarest.link`移动高速  新加坡`  
-acsg3.cloudflarest.link`电信高速  新加坡`  
-acsg.cloudflarest.link`电信高速  新加坡`  
+acjp2.cloudflarest.link    `联通高速 日本`  
+acsg.cloudflarest.link    `联通高速  新加坡`  
+acsg3.cloudflarest.link    `联通高速  新加坡`  
+acjp2.cloudflarest.link    `移动高速 日本`  
+acsg3.cloudflarest.link    `移动高速  新加坡`  
+acsg3.cloudflarest.link    `电信高速  新加坡`  
+acsg.cloudflarest.link    `电信高速  新加坡`  
 ## 优选域名推荐
 cfip.xxxxxxxx.tk:2096#优选域名  
 cdn.kaiche.tk:2096#优选域名  
