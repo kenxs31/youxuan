@@ -22,7 +22,9 @@ proxyip.hk.fxxk.dedyn.io  `IP落地区域: 香港 维护频率: 12小时/次`
 proxyip.aliyun.fxxk.dedyn.io  `IP落地区域: 阿里云 维护频率: 4小时/次`  
 proxyip.oracle.fxxk.dedyn.io  `IP落地区域: 甲骨文 维护频率: 4小时/次`  
 proxyip.digitalocean.fxxk.dedyn.io  `IP落地区域: 数码海 维护频率: 4小时/次`  
-workers.cloudflare.cyou    `白嫖哥维护`    
+workers.cloudflare.cyou    `白嫖哥维护`   
+cdn.xn--b6gac.eu.org    `3k大佬脚本默认`  
+cdn-all.xn--b6gac.eu.org    `3K大佬脚本默认`  
 ## 优选域名推荐
 cfip.xxxxxxxx.tk:2096#优选域名  
 cdn.kaiche.tk:2096#优选域名  
