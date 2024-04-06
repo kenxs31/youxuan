@@ -3,7 +3,7 @@ cm.godns.onflashdrive.app `天城大佬`
 3k.fxxk.dedyn.io `3K大佬`  
 vmess.fxxk.dedyn.io `CM大佬`  
 vless.fxxk.dedyn.io `CM大佬` 
-vless-4ca.pages.dev `CM大佬` 
+vless-4ca.pages.dev `CM大佬`  
 dingyue.yutian81.xyz  `自行搭建的`  
 ## 订阅器变量
 UUID=UUID  
