@@ -15,3 +15,9 @@ TOKEN=订阅入口
 SUB=订阅器  
 UUID=UUID  
 PROXYIP=反代IP或域名  
+## 托管在CF CDN的网站
+www.000webhost.com  
+dogechain.info  
+www.idle-empire.com  
+www.zendesk.com  
+interactive.kohls.com  
