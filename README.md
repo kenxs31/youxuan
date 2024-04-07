@@ -10,6 +10,7 @@ UUID=UUID
 HOST=伪装域名  `cf pages地址`  
 PATH=路径  `填写/?ed=2048即可`  
 TOKEN=订阅入口  
+优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash`  
 手动填写：https://生成器地址/sub?host=伪装域名&uuid=你的UUID&path=路径  
 ## cf 自建节点变量
 SUB=订阅器  
