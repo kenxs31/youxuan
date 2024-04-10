@@ -1,5 +1,12 @@
+//暂时失效优选域名 20240410
+cloudflare.cfgo.cc:443#优选域名
+//暂时失效反代域名 20240410
+proxyip.hk.fxxk.dedyn.io#优选反代-香港
+workers.cloudflare.cyou#优选反代-白嫖哥
+hk.infini.cloudns.biz#优选反代
+
 //ADD变量
-//官方优选域名443
+//官方优选域名443-20240410
 cf.090227.xyz#官方优选域名
 cfip.xxxxxxxx.tk:2096#优选域名
 cdn.kaiche.tk:2096#优选域名
@@ -32,7 +39,7 @@ www.gco.gov.qa#优选域名
 www.gov.se#优选域名
 www.gov.ua#优选域名
 www.zsu.gov.ua#优选域名
-//反代优选域名443
+//反代优选域名443-20240410
 proxyip.fxxk.dedyn.io#优选反代-美国
 proxyip.sg.fxxk.dedyn.io#优选反代-新加坡
 proxyip.jp.fxxk.dedyn.io#优选反代-日本
@@ -40,7 +47,6 @@ proxyip.hk.fxxk.dedyn.io#优选反代-香港
 proxyip.aliyun.fxxk.dedyn.io#优选反代-阿里云
 proxyip.oracle.fxxk.dedyn.io#优选反代-甲骨文
 proxyip.digitalocean.fxxk.dedyn.io#优选反代-数码海
-workers.cloudflare.cyou#优选反代-白嫖哥
 p.sdu1.com#优选反代
 a.wuqu.pp.ua#优选反代
 cf2.dannyken.com#优选反代
@@ -55,7 +61,6 @@ cf.cdn.cmliu.net#优选反代
 cf-cdn.tiktokcloud.top#优选反代
 cdn-seek-b090-2a5cee4bb04a.hk-cctv.com#优选反代',
 cdn.gunyoung.top#优选反代
-hk.infini.cloudns.biz#优选反代
 a.wuqu.pp.ua#优选反代
 www.iwzyw.com#优选反代
 
