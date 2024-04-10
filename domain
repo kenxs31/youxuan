@@ -1,6 +1,7 @@
 //暂时失效优选域名 20240410
 cf.090227.xyz#官方优选域名
 cloudflare.cfgo.cc:443#优选域名
+shopify.com#优选域名
 //暂时失效反代域名 20240410
 proxyip.fxxk.dedyn.io#优选反代-美国
 proxyip.jp.fxxk.dedyn.io#优选反代-日本
@@ -22,7 +23,6 @@ www.4chan.org:2053#优选域名
 www.okcupid.com:2053#优选域名
 www.digitalocean.com#优选域名
 www.csgo.com#优选域名
-shopify.com#优选域名
 time.is#优选域名
 ip.sb#优选域名
 japan.com#优选域名
