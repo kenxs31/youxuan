@@ -14,3 +14,4 @@ vmess://eyJhZGQiOiJhcHRuY2RuLmZsaGEucnUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://YWVzLTEyOC1nY206MzVhNTQwNzctYWQxOC00ODc0LTk3ZmYtMzE0NDg3NzQwODVi@gyb.kd69.vip:31591#%E6%BE%B3%E9%97%A8%7C%E5%B9%BF%E6%96%B0%E4%B8%93%E7%BA%BF%7C%E7%8E%A9%E5%85%B7%E8%8A%82%E7%82%B9
 vmess://eyJhZGQiOiJmY2RuLmZsaGEucnUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjIwOTUiLCJwcyI6Ilt2bWVzc11ISyBGaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@poke.rushshop.club:11163/?congestion_control=bbr&udp_relay_mode=quic&sni=poke.rushshop.club&alpn=h3&disable_sni=1#desi
+vless://93625770-f731-11ee-8047-1239d0255272@104.19.242.160:443?path=%2Fvlws&security=tls&encryption=none&host=sg3.socifiles.com&type=ws&sni=sg3.socifiles.com#SG+Vless-WS%282024-04-17%29
