@@ -16,8 +16,8 @@ ADDAPI=优选IP直链地址，有多条则每行一条，对应addressesapi字�
 ADDAPINOTLS=优选IP直链地址，有多条则每行一条，对应addressesnotlsapi字段  `不带TLS`  
 SUBAPI=订阅转换器后端，默认`apiurl.v1.mk`，自建`csub.yutian81.top`，教程https://github.com/bulianglin/psub   
 SUBCONFIG=订阅转换器配置文件  
-https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini  `简单分流，带负载均衡`  
-https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini  `完整分流`  
+- https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini  `简单分流，带负载均衡`  
+- https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini  `完整分流`  
 ADDCSV=IP测速文件直链地址，有多条则每行一条，对应addressescsv字段  
 DLS=测速下限值，默认单位m/秒， `如：10`  
 优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash`  
