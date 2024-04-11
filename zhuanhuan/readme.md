@@ -4,7 +4,7 @@
 https://psub.888005.xyz  
 ## 视频教程  
 https://youtu.be/X7CC5jrgazo  
-环境变量名：`BACKEND`  `https://api.v1.mk`  
+环境变量名：`BACKEND`  https://api.v1.mk
 KV或R2变量名：`SUB_BUCKET`  
 ## 支持反代转换的协议
 shadowsocks  
