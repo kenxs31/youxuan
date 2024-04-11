@@ -12,9 +12,9 @@ https://youtu.be/X7CC5jrgazo
 - worker地址即为订阅转换器地址，可绑定自定义域名使用
 - 最终得到订阅转换器后端地址：`csub.yutian81.top/sub?`，在转换器前端网页中填入这个地址即可  
 ## 支持反代转换的协议
-shadowsocks  
-shadowsocksR  
-vmess  
-trojan  
-vless(取决于后端)  
-hysteria(取决于后端)  
+- shadowsocks  
+- shadowsocksR  
+- vmess  
+- trojan  
+- vless(取决于后端)  
+- hysteria(取决于后端)  
