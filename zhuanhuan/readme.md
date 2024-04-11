@@ -4,8 +4,11 @@
 https://psub.888005.xyz  
 ## 视频教程  
 https://youtu.be/X7CC5jrgazo  
-环境变量名：`BACKEND`  https://api.v1.mk  
-KV或R2变量名：`SUB_BUCKET`  csub  
+- 创建worker，复制代码`zhuanhuan.js`，命名为`csub`，保存并部署  
+- 创建KV，命名为`csub或其他`  
+- 设置worker环境变量1：`BACKEND`  https://api.v1.mk  
+- 设置worker环境变量2：KV或R2变量：`SUB_BUCKET`  csub
+- worker地址即为订阅转换器地址，可绑定自定义域名使用  
 ## 支持反代转换的协议
 shadowsocks  
 shadowsocksR  
