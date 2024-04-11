@@ -23,7 +23,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 - 优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash`  
 - 手动填写：https://生成器地址/sub?host=伪装域名&uuid=你的UUID&path=路径  
 ## cf 自建节点变量
-- SUB=订阅器  
+- SUB=订阅器地址  
 - UUID=UUID  
 - PROXYIP=反代IP或域名  
 ## 托管在CF CDN的网站
