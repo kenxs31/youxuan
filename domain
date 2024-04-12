@@ -40,6 +40,13 @@ www.gco.gov.qa#优选域名
 www.gov.se#优选域名
 www.gov.ua#优选域名
 www.zsu.gov.ua#优选域名
+
+//20240412新增优选域名
+cdntest.yuchen.icu#优选域名-CA
+g437.cc#优选域名-CA
+t437.cc#优选域名-CA
+w372.cc#优选域名-CA
+
 //反代优选域名443-20240410
 proxyip.sg.fxxk.dedyn.io#优选反代-新加坡
 proxyip.aliyun.fxxk.dedyn.io#优选反代-阿里云
@@ -99,6 +106,7 @@ log.bpminecraft.com#官方优选域名
 www.boba88slot.com#官方优选域名
 www.iakeys.com#官方优选域名
 www.d-555.com#官方优选域名
+
 //反代优选域名80
 bestproxy.onecf.eu.org#反代优选域名-Mingyu
 proxy.xxxxxxxx.tk#反代优选域名-OTC
