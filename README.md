@@ -14,7 +14,7 @@
 - ADDNOTLS=优选域名，每行1个，对应addressesnotls字段  `不带TLS`  
 - ADDAPI=优选IP直链地址，有多条则每行1条，对应addressesapi字段  `带TLS`
 - ADDAPINOTLS=优选IP直链地址，有多条则每行1条，对应addressesnotlsapi字段  `不带TLS`  
-- SUBAPI=订阅转换器后端，默认`apiurl.v1.mk`，自建`csub.yutian81.top`，教程https://github.com/bulianglin/psub   
+- SUBAPI=订阅转换器后端，默认`apiurl.v1.mk`，自建前端`csub.yutian81.top`，教程https://github.com/bulianglin/psub   
 - SUBCONFIG=订阅转换器配置文件  
 https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini  `简单分流，带负载均衡`  
 https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini  `完整分流`  
