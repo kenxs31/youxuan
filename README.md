@@ -31,4 +31,5 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 - dogechain.info  
 - www.idle-empire.com  
 - www.zendesk.com  
-- interactive.kohls.com  
+- interactive.kohls.com
+- l53.net  
