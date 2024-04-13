@@ -25,7 +25,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 ## cf 自建节点变量
 - SUB=订阅器地址  
 - UUID=UUID  
-- PROXYIP=反代IP或域名  
+- PROXYIP=反代IP或域名,可填写多个用英文,分隔  
 ## 托管在CF CDN的网站
 - www.000webhost.com  
 - dogechain.info  
