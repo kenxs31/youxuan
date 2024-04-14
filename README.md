@@ -33,4 +33,5 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 - www.zendesk.com  
 - interactive.kohls.com
 - l53.net
-- hax.co.id  
+- hax.co.id
+- woiden.id  
