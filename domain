@@ -68,6 +68,9 @@ cdn.gunyoung.top#优选反代
 a.wuqu.pp.ua#优选反代
 www.iwzyw.com#优选反代
 
+// PROXYIP 变量格式
+proxyip.sg.fxxk.dedyn.io,proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io,proxyip.digitalocean.fxxk.dedyn.io,p.sdu1.com,a.wuqu.pp.ua,cf2.dannyken.com,cdnhk.huabuxiang.vip,fandaicf.huise.fun,54rj.com,clun.top,www.clun.top,cf-cdn.tiktokcloud.top,cf.cdn.cmliu.net,hk27.yscard.gq,cdn-seek-b090-2a5cee4bb04a.hk-cctv.com,cdn.gunyoung.top,a.wuqu.pp.ua,www.iwzyw.com
+
 //ADDAPI变量及ADDNOTLSAPI变量
 //从以下网址获取 https://cf.090227.xyz https://ipdb.api.030101.xyz 及我自己维护的（托管在github）
 https://addressesapi.090227.xyz/ct
