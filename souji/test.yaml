@@ -1,10 +1,10 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-04-12 16:52:00
+# 创建时间：2024-04-15 13:01:10
 # 使用模版：ACL4SSR_Online_Mini_MultiMode.ini
-# 节点数量：6
-# 节点类型：vmess, vless
+# 节点数量：48
+# 节点类型：vless
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 ####################################
 mixed-port: 7890
@@ -87,12 +87,54 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"[vmess]HK Fi","type":"vmess","server":"fcdn.flha.ru","port":2095,"cipher":"auto","uuid":"7a737f41-b792-4260-94ff-3d864da67b80","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":""}}
-  - {"name":"defaultName","server":"nat.rushshop.club","port":24147,"password":"dacd2765-2332-4817-83c4-273df586c8c5","uuid":"dacd2765-2332-4817-83c4-273df586c8c5","alpn":["h3"],"congestion_control":"bbr#nat.rushshop.club"}
-  - {"name":"优选域名-CA_1","type":"vless","server":"cdntest.yuchen.icu","port":443,"uuid":"7a40fb1f-511c-413c-8442-2fd5e638aee6","tls":true,"servername":"3k.yutian81.top","network":"ws","ws-opts":{"path":"/","headers":{"host":"3k.yutian81.top"}},"client-fingerprint":"random"}
-  - {"name":"优选域名-CA_2","type":"vless","server":"g437.cc","port":443,"uuid":"7a40fb1f-511c-413c-8442-2fd5e638aee6","tls":true,"servername":"3k.yutian81.top","network":"ws","ws-opts":{"path":"/","headers":{"host":"3k.yutian81.top"}},"client-fingerprint":"random"}
-  - {"name":"优选域名-CA_3","type":"vless","server":"t437.cc","port":443,"uuid":"7a40fb1f-511c-413c-8442-2fd5e638aee6","tls":true,"servername":"3k.yutian81.top","network":"ws","ws-opts":{"path":"/","headers":{"host":"3k.yutian81.top"}},"client-fingerprint":"random"}
-  - {"name":"优选域名-CA_4","type":"vless","server":"w372.cc","port":443,"uuid":"7a40fb1f-511c-413c-8442-2fd5e638aee6","tls":true,"servername":"3k.yutian81.top","network":"ws","ws-opts":{"path":"/","headers":{"host":"3k.yutian81.top"}},"client-fingerprint":"random"}
+  - {"name":"DCI-JP-优选IP英国_1","type":"vless","server":"91.193.58.98","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP新加坡_1","type":"vless","server":"77.37.33.183","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_1","type":"vless","server":"104.19.58.80","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_1","type":"vless","server":"172.64.141.7","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_2","type":"vless","server":"172.64.140.7","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_2","type":"vless","server":"104.19.58.80","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP_1","type":"vless","server":"dci-jp.yutian81.xyz","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP日本_1","type":"vless","server":"162.159.58.35","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_3","type":"vless","server":"172.64.140.7","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP德国_1","type":"vless","server":"185.135.9.53","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_4","type":"vless","server":"172.64.141.7","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP澳大利亚_1","type":"vless","server":"192.65.217.12","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_5","type":"vless","server":"104.19.23.201","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_6","type":"vless","server":"104.19.23.201","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP日本_2","type":"vless","server":"162.159.58.35","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP_2","type":"vless","server":"dci-jp.yutian81.xyz","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP新加坡_2","type":"vless","server":"77.37.33.183","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_3","type":"vless","server":"104.26.1.40","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_7","type":"vless","server":"104.27.62.161","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_4","type":"vless","server":"104.26.1.40","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_8","type":"vless","server":"172.66.134.163","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_9","type":"vless","server":"104.27.62.161","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_10","type":"vless","server":"172.66.134.163","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_11","type":"vless","server":"104.25.61.23","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_12","type":"vless","server":"104.25.61.23","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_5","type":"vless","server":"104.23.105.166","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP美国_6","type":"vless","server":"104.23.105.166","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP香港_1","type":"vless","server":"188.42.145.72","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-巴西圣保罗CloudFlare节点_1","type":"vless","server":"188.114.96.29","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-巴西圣保罗CloudFlare节点_2","type":"vless","server":"188.114.97.251","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP韩国_1","type":"vless","server":"218.39.175.87","port":50024,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP韩国_2","type":"vless","server":"218.39.175.87","port":50024,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP香港_2","type":"vless","server":"188.42.145.72","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP韩国_3","type":"vless","server":"146.56.44.88","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_13","type":"vless","server":"172.67.187.219","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP韩国_4","type":"vless","server":"146.56.44.88","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_14","type":"vless","server":"172.67.187.219","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP英国_2","type":"vless","server":"91.193.58.98","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_15","type":"vless","server":"104.21.91.16","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP荷兰_1","type":"vless","server":"77.37.33.136","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-巴西圣保罗CloudFlare节点_3","type":"vless","server":"188.114.96.29","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP澳大利亚_2","type":"vless","server":"192.65.217.12","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP荷兰_2","type":"vless","server":"77.37.33.136","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-美国CloudFlare节点_16","type":"vless","server":"104.21.91.16","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-巴西圣保罗CloudFlare节点_4","type":"vless","server":"188.114.97.251","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP德国_2","type":"vless","server":"144.24.169.81","port":2053,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP德国_3","type":"vless","server":"144.24.169.81","port":2053,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
+  - {"name":"DCI-JP-优选IP德国_4","type":"vless","server":"185.135.9.53","port":443,"uuid":"f06101c7-e7b1-4014-8cee-b5e87c65aaaa","tls":true,"servername":"dci-jp.yutian81.xyz","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"dci-jp.yutian81.xyz"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -101,46 +143,214 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - '[vmess]HK Fi'
-      - defaultName
-      - 优选域名-CA_1
-      - 优选域名-CA_2
-      - 优选域名-CA_3
-      - 优选域名-CA_4
+      - DCI-JP-优选IP英国_1
+      - DCI-JP-优选IP新加坡_1
+      - DCI-JP-优选IP美国_1
+      - DCI-JP-美国CloudFlare节点_1
+      - DCI-JP-美国CloudFlare节点_2
+      - DCI-JP-优选IP美国_2
+      - DCI-JP_1
+      - DCI-JP-优选IP日本_1
+      - DCI-JP-美国CloudFlare节点_3
+      - DCI-JP-优选IP德国_1
+      - DCI-JP-美国CloudFlare节点_4
+      - DCI-JP-优选IP澳大利亚_1
+      - DCI-JP-美国CloudFlare节点_5
+      - DCI-JP-美国CloudFlare节点_6
+      - DCI-JP-优选IP日本_2
+      - DCI-JP_2
+      - DCI-JP-优选IP新加坡_2
+      - DCI-JP-优选IP美国_3
+      - DCI-JP-美国CloudFlare节点_7
+      - DCI-JP-优选IP美国_4
+      - DCI-JP-美国CloudFlare节点_8
+      - DCI-JP-美国CloudFlare节点_9
+      - DCI-JP-美国CloudFlare节点_10
+      - DCI-JP-美国CloudFlare节点_11
+      - DCI-JP-美国CloudFlare节点_12
+      - DCI-JP-优选IP美国_5
+      - DCI-JP-优选IP美国_6
+      - DCI-JP-优选IP香港_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_2
+      - DCI-JP-优选IP韩国_1
+      - DCI-JP-优选IP韩国_2
+      - DCI-JP-优选IP香港_2
+      - DCI-JP-优选IP韩国_3
+      - DCI-JP-美国CloudFlare节点_13
+      - DCI-JP-优选IP韩国_4
+      - DCI-JP-美国CloudFlare节点_14
+      - DCI-JP-优选IP英国_2
+      - DCI-JP-美国CloudFlare节点_15
+      - DCI-JP-优选IP荷兰_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_3
+      - DCI-JP-优选IP澳大利亚_2
+      - DCI-JP-优选IP荷兰_2
+      - DCI-JP-美国CloudFlare节点_16
+      - DCI-JP-巴西圣保罗CloudFlare节点_4
+      - DCI-JP-优选IP德国_2
+      - DCI-JP-优选IP德国_3
+      - DCI-JP-优选IP德国_4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - '[vmess]HK Fi'
-      - defaultName
-      - 优选域名-CA_1
-      - 优选域名-CA_2
-      - 优选域名-CA_3
-      - 优选域名-CA_4
+      - DCI-JP-优选IP英国_1
+      - DCI-JP-优选IP新加坡_1
+      - DCI-JP-优选IP美国_1
+      - DCI-JP-美国CloudFlare节点_1
+      - DCI-JP-美国CloudFlare节点_2
+      - DCI-JP-优选IP美国_2
+      - DCI-JP_1
+      - DCI-JP-优选IP日本_1
+      - DCI-JP-美国CloudFlare节点_3
+      - DCI-JP-优选IP德国_1
+      - DCI-JP-美国CloudFlare节点_4
+      - DCI-JP-优选IP澳大利亚_1
+      - DCI-JP-美国CloudFlare节点_5
+      - DCI-JP-美国CloudFlare节点_6
+      - DCI-JP-优选IP日本_2
+      - DCI-JP_2
+      - DCI-JP-优选IP新加坡_2
+      - DCI-JP-优选IP美国_3
+      - DCI-JP-美国CloudFlare节点_7
+      - DCI-JP-优选IP美国_4
+      - DCI-JP-美国CloudFlare节点_8
+      - DCI-JP-美国CloudFlare节点_9
+      - DCI-JP-美国CloudFlare节点_10
+      - DCI-JP-美国CloudFlare节点_11
+      - DCI-JP-美国CloudFlare节点_12
+      - DCI-JP-优选IP美国_5
+      - DCI-JP-优选IP美国_6
+      - DCI-JP-优选IP香港_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_2
+      - DCI-JP-优选IP韩国_1
+      - DCI-JP-优选IP韩国_2
+      - DCI-JP-优选IP香港_2
+      - DCI-JP-优选IP韩国_3
+      - DCI-JP-美国CloudFlare节点_13
+      - DCI-JP-优选IP韩国_4
+      - DCI-JP-美国CloudFlare节点_14
+      - DCI-JP-优选IP英国_2
+      - DCI-JP-美国CloudFlare节点_15
+      - DCI-JP-优选IP荷兰_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_3
+      - DCI-JP-优选IP澳大利亚_2
+      - DCI-JP-优选IP荷兰_2
+      - DCI-JP-美国CloudFlare节点_16
+      - DCI-JP-巴西圣保罗CloudFlare节点_4
+      - DCI-JP-优选IP德国_2
+      - DCI-JP-优选IP德国_3
+      - DCI-JP-优选IP德国_4
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - '[vmess]HK Fi'
-      - defaultName
-      - 优选域名-CA_1
-      - 优选域名-CA_2
-      - 优选域名-CA_3
-      - 优选域名-CA_4
+      - DCI-JP-优选IP英国_1
+      - DCI-JP-优选IP新加坡_1
+      - DCI-JP-优选IP美国_1
+      - DCI-JP-美国CloudFlare节点_1
+      - DCI-JP-美国CloudFlare节点_2
+      - DCI-JP-优选IP美国_2
+      - DCI-JP_1
+      - DCI-JP-优选IP日本_1
+      - DCI-JP-美国CloudFlare节点_3
+      - DCI-JP-优选IP德国_1
+      - DCI-JP-美国CloudFlare节点_4
+      - DCI-JP-优选IP澳大利亚_1
+      - DCI-JP-美国CloudFlare节点_5
+      - DCI-JP-美国CloudFlare节点_6
+      - DCI-JP-优选IP日本_2
+      - DCI-JP_2
+      - DCI-JP-优选IP新加坡_2
+      - DCI-JP-优选IP美国_3
+      - DCI-JP-美国CloudFlare节点_7
+      - DCI-JP-优选IP美国_4
+      - DCI-JP-美国CloudFlare节点_8
+      - DCI-JP-美国CloudFlare节点_9
+      - DCI-JP-美国CloudFlare节点_10
+      - DCI-JP-美国CloudFlare节点_11
+      - DCI-JP-美国CloudFlare节点_12
+      - DCI-JP-优选IP美国_5
+      - DCI-JP-优选IP美国_6
+      - DCI-JP-优选IP香港_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_2
+      - DCI-JP-优选IP韩国_1
+      - DCI-JP-优选IP韩国_2
+      - DCI-JP-优选IP香港_2
+      - DCI-JP-优选IP韩国_3
+      - DCI-JP-美国CloudFlare节点_13
+      - DCI-JP-优选IP韩国_4
+      - DCI-JP-美国CloudFlare节点_14
+      - DCI-JP-优选IP英国_2
+      - DCI-JP-美国CloudFlare节点_15
+      - DCI-JP-优选IP荷兰_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_3
+      - DCI-JP-优选IP澳大利亚_2
+      - DCI-JP-优选IP荷兰_2
+      - DCI-JP-美国CloudFlare节点_16
+      - DCI-JP-巴西圣保罗CloudFlare节点_4
+      - DCI-JP-优选IP德国_2
+      - DCI-JP-优选IP德国_3
+      - DCI-JP-优选IP德国_4
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - '[vmess]HK Fi'
-      - defaultName
-      - 优选域名-CA_1
-      - 优选域名-CA_2
-      - 优选域名-CA_3
-      - 优选域名-CA_4
+      - DCI-JP-优选IP英国_1
+      - DCI-JP-优选IP新加坡_1
+      - DCI-JP-优选IP美国_1
+      - DCI-JP-美国CloudFlare节点_1
+      - DCI-JP-美国CloudFlare节点_2
+      - DCI-JP-优选IP美国_2
+      - DCI-JP_1
+      - DCI-JP-优选IP日本_1
+      - DCI-JP-美国CloudFlare节点_3
+      - DCI-JP-优选IP德国_1
+      - DCI-JP-美国CloudFlare节点_4
+      - DCI-JP-优选IP澳大利亚_1
+      - DCI-JP-美国CloudFlare节点_5
+      - DCI-JP-美国CloudFlare节点_6
+      - DCI-JP-优选IP日本_2
+      - DCI-JP_2
+      - DCI-JP-优选IP新加坡_2
+      - DCI-JP-优选IP美国_3
+      - DCI-JP-美国CloudFlare节点_7
+      - DCI-JP-优选IP美国_4
+      - DCI-JP-美国CloudFlare节点_8
+      - DCI-JP-美国CloudFlare节点_9
+      - DCI-JP-美国CloudFlare节点_10
+      - DCI-JP-美国CloudFlare节点_11
+      - DCI-JP-美国CloudFlare节点_12
+      - DCI-JP-优选IP美国_5
+      - DCI-JP-优选IP美国_6
+      - DCI-JP-优选IP香港_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_2
+      - DCI-JP-优选IP韩国_1
+      - DCI-JP-优选IP韩国_2
+      - DCI-JP-优选IP香港_2
+      - DCI-JP-优选IP韩国_3
+      - DCI-JP-美国CloudFlare节点_13
+      - DCI-JP-优选IP韩国_4
+      - DCI-JP-美国CloudFlare节点_14
+      - DCI-JP-优选IP英国_2
+      - DCI-JP-美国CloudFlare节点_15
+      - DCI-JP-优选IP荷兰_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_3
+      - DCI-JP-优选IP澳大利亚_2
+      - DCI-JP-优选IP荷兰_2
+      - DCI-JP-美国CloudFlare节点_16
+      - DCI-JP-巴西圣保罗CloudFlare节点_4
+      - DCI-JP-优选IP德国_2
+      - DCI-JP-优选IP德国_3
+      - DCI-JP-优选IP德国_4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -160,12 +370,54 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - '[vmess]HK Fi'
-      - defaultName
-      - 优选域名-CA_1
-      - 优选域名-CA_2
-      - 优选域名-CA_3
-      - 优选域名-CA_4
+      - DCI-JP-优选IP英国_1
+      - DCI-JP-优选IP新加坡_1
+      - DCI-JP-优选IP美国_1
+      - DCI-JP-美国CloudFlare节点_1
+      - DCI-JP-美国CloudFlare节点_2
+      - DCI-JP-优选IP美国_2
+      - DCI-JP_1
+      - DCI-JP-优选IP日本_1
+      - DCI-JP-美国CloudFlare节点_3
+      - DCI-JP-优选IP德国_1
+      - DCI-JP-美国CloudFlare节点_4
+      - DCI-JP-优选IP澳大利亚_1
+      - DCI-JP-美国CloudFlare节点_5
+      - DCI-JP-美国CloudFlare节点_6
+      - DCI-JP-优选IP日本_2
+      - DCI-JP_2
+      - DCI-JP-优选IP新加坡_2
+      - DCI-JP-优选IP美国_3
+      - DCI-JP-美国CloudFlare节点_7
+      - DCI-JP-优选IP美国_4
+      - DCI-JP-美国CloudFlare节点_8
+      - DCI-JP-美国CloudFlare节点_9
+      - DCI-JP-美国CloudFlare节点_10
+      - DCI-JP-美国CloudFlare节点_11
+      - DCI-JP-美国CloudFlare节点_12
+      - DCI-JP-优选IP美国_5
+      - DCI-JP-优选IP美国_6
+      - DCI-JP-优选IP香港_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_2
+      - DCI-JP-优选IP韩国_1
+      - DCI-JP-优选IP韩国_2
+      - DCI-JP-优选IP香港_2
+      - DCI-JP-优选IP韩国_3
+      - DCI-JP-美国CloudFlare节点_13
+      - DCI-JP-优选IP韩国_4
+      - DCI-JP-美国CloudFlare节点_14
+      - DCI-JP-优选IP英国_2
+      - DCI-JP-美国CloudFlare节点_15
+      - DCI-JP-优选IP荷兰_1
+      - DCI-JP-巴西圣保罗CloudFlare节点_3
+      - DCI-JP-优选IP澳大利亚_2
+      - DCI-JP-优选IP荷兰_2
+      - DCI-JP-美国CloudFlare节点_16
+      - DCI-JP-巴西圣保罗CloudFlare节点_4
+      - DCI-JP-优选IP德国_2
+      - DCI-JP-优选IP德国_3
+      - DCI-JP-优选IP德国_4
 
 rules:
 # 本地/局域网地址
