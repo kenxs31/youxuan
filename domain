@@ -40,12 +40,10 @@ www.gco.gov.qa#优选域名
 www.gov.se#优选域名
 www.gov.ua#优选域名
 www.zsu.gov.ua#优选域名
-
-//20240412新增优选域名
-cdntest.yuchen.icu#优选域名-CA
-g437.cc#优选域名-CA
-t437.cc#优选域名-CA
-w372.cc#优选域名-CA
+cdntest.yuchen.icu#优选域名
+g437.cc#优选域名
+t437.cc#优选域名
+w372.cc#优选域名
 
 //反代优选域名443-20240410
 proxyip.sg.fxxk.dedyn.io#优选反代-新加坡
