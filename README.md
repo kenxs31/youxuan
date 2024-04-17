@@ -7,8 +7,8 @@
 - yusub.yutian81.top  `自行搭建的`  
 ## 订阅器变量
 - UUID=UUID  
-- HOST=伪装域名  `cf pages地址`  
-- PATH=路径  `填写/?ed=2048即可`  
+- HOST=伪装域名  `cf pages或workers地址`  
+- PATH=路径  `填写/?ed=2048即可，或自定义，但最前面一定要带 / `  
 - TOKEN=订阅入口  `默认为auto`  
 - ADD=优选域名，每行1个，对应addresses字段  `带TLS`  
 - ADDNOTLS=优选域名，每行1个，对应addressesnotls字段  `不带TLS`  
@@ -17,9 +17,9 @@
 - SUBAPI=订阅转换器后端，默认`apiurl.v1.mk`，自建前端`csub.yutian81.top`，教程https://github.com/bulianglin/psub   
 - SUBCONFIG=订阅转换器配置文件  
 https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini  `简单分流，带负载均衡`  
-https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini  `完整分流`  
+https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini  `完整分流，带负载均衡`  
 - ADDCSV=IP测速文件直链地址，有多条则每行一条，对应addressescsv字段  
-- DLS=测速下限值，默认单位m/秒， `如：10`  
+- DLS=测速下限值，默认单位m/秒， `如：10`
 - 优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash`  
 - 手动填写：https://生成器地址/sub?host=伪装域名&uuid=你的UUID&path=路径  
 ## cf 自建节点变量
@@ -35,3 +35,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 - l53.net
 - hax.co.id
 - woiden.id  
+## 文件说明
+- `PROXYIP`：反代域名及IP列表
+- `bianliang`：订阅器变量应填入的值
+- `yip`：优选IP列表
