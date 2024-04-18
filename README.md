@@ -21,7 +21,7 @@
 ## 订阅器变量说明
 - UUID=UUID  
 - HOST=伪装域名  `cf pages或workers地址`  
-- PATH=路径  `填写/?ed=2048即可，或自定义，但最前面一定要带 / `;cm的脚本可以直接填写反代IP &ensp; `/proxyIP=`
+- PATH=路径  `填写/?ed=2048即可，或自定义，但最前面一定要带 / `;cm的脚本可以直接填写反代IP &nbsp; `/proxyIP=`
 - TOKEN=订阅入口  `默认为auto`  
 - ADD=优选域名，每行1个，对应addresses字段  `带TLS`  
 - ADDNOTLS=优选域名，每行1个，对应addressesnotls字段  `不带TLS`  
