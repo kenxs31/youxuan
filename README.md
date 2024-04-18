@@ -1,6 +1,7 @@
 ## 大佬订阅器  
 - cm.godns.onflashdrive.app  &ensp;  `天城大佬` &ensp;  暂时不知道订阅入口  
 - https://3k.fxxk.dedyn.io/auto  &ensp;  `3K大佬`
+- https://3k.fxxk.dedyn.io/sub  &ensp;  `3K大佬`
 - https://VLESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vless 订阅器`
 - https://VMESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vmess 订阅器`
 - https://vless-4ca.pages.dev/auto  &ensp;  `CM大佬-vless 订阅器`
