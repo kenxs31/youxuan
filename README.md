@@ -1,11 +1,13 @@
 ## 大佬订阅器  
-- cm.godns.onflashdrive.app  &ensp;  `天城大佬` &ensp;  暂时不知道订阅入口  
-- https://3k.fxxk.dedyn.io/auto  &ensp;  `3K大佬`
-- https://3k.fxxk.dedyn.io/sub  &ensp;  `3K大佬`
-- https://VLESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vless 订阅器`
-- https://VMESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vmess 订阅器`
-- https://vless-4ca.pages.dev/auto  &ensp;  `CM大佬-vless 订阅器`
-- https://WARP.fxxk.dedyn.io/auto  &ensp;  `CM大佬-Warp+ 订阅器`
+- cm.godns.onflashdrive.app  &ensp;  `天城大佬` &ensp;  暂时不知道订阅入口，变量SUB = cm.godns.onflashdrive.app
+- https://3k.fxxk.dedyn.io/auto  &ensp;  `3K大佬`  变量SUB = 3k.fxxk.dedyn.io
+- https://3k.fxxk.dedyn.io/sub  &ensp;  `3K大佬`  变量SUB = 3k.fxxk.dedyn.io
+- https://VLESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vless 订阅器`  变量SUB = VLESS.fxxk.dedyn.io
+- https://VMESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vmess 订阅器`  变量SUB = VMESS.fxxk.dedyn.io
+- https://WARP.fxxk.dedyn.io/auto  &ensp;  `CM大佬-Warp+ 订阅器`  变量SUB = WARP.fxxk.dedyn.io
+- https://moistr.freenods.sbs/mianfei  &ensp;  `Moist_R大佬`  该订阅器不支持汇聚订阅
+- https://sub.kaiche.tk/?token=auto  &ensp;  `OTC 大佬`
+- http://allsub.king361.cf  &ensp;  `KING 大佬`  
 - https://yusub.yutian81.top    &ensp;  `自行搭建的`  &ensp;  隐藏订阅入口  
 ## 自定义订阅，手动使用上述订阅器
 #### vless pages
