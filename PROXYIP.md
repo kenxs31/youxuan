@@ -8,6 +8,11 @@
 - proxyip.digitalocean.fxxk.dedyn.io   &nbsp;  `IP落地区域: 数码海 维护频率: 4小时/次`
 - workers.cloudflare.cyou   &nbsp;  `白嫖哥、Mingyu大佬维护`
 - ipdb.rr.nu &nbsp;`mingyu大佬维护`
+- nl.ipdb.rr.nu &nbsp;`落地区域：荷兰；mingyu大佬维护`
+- jp.ipdb.rr.nu &nbsp;`落地区域：日本；mingyu大佬维护`
+- hk.ipdb.rr.nu &nbsp;`落地区域：香港；mingyu大佬维护`
+- us.ipdb.rr.nu &nbsp;`落地区域：美国；mingyu大佬维护`
+- sg.ipdb.rr.nu &nbsp;`落地区域：新加坡；mingyu大佬维护`
 - hk.infini.cloudns.biz
 - cdn-seek-b090-2a5cee4bb04a.hk-cctv.com
 - p.sdu1.com
