@@ -13,6 +13,8 @@
 - hk.ipdb.rr.nu &nbsp;`落地区域：香港；mingyu大佬维护`
 - us.ipdb.rr.nu &nbsp;`落地区域：美国；mingyu大佬维护`
 - sg.ipdb.rr.nu &nbsp;`落地区域：新加坡；mingyu大佬维护`
+- proxy.xxxxxxxx.tk &nbsp;`落地区域：日本；OTC大佬维护`
+- cfip.xxxxxxxx.tk &nbsp;`落地区域：美国；OTC大佬维护`
 - hk.infini.cloudns.biz
 - cdn-seek-b090-2a5cee4bb04a.hk-cctv.com
 - p.sdu1.com
