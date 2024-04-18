@@ -32,7 +32,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 `带负载均衡`  
 - ADDCSV=IP测速文件直链地址，有多条则每行一条，对应addressescsv字段  
 - DLS=测速下限值，默认单位m/秒， `如：10`
-- 优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash`  
+- 优选订阅地址：https://HOST域名/TOKEN `clash则加上?format/clash` &ensp; `singbox则加上?format/singbox`  
 - 手动填写：https://生成器地址/sub?host=伪装域名&uuid=你的UUID&path=路径
 - **[订阅器变量内容](https://github.com/yutian81/freefq/blob/main/bianliang.md)**
 ## cf 自建节点变量
