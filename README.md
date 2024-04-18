@@ -1,11 +1,11 @@
 ## 大佬订阅器  
-- cm.godns.onflashdrive.app  &ensp;  `天城大佬` &ensp;  暂时不知道入口 &nbsp; TOKEN 
+- cm.godns.onflashdrive.app  &ensp;  `天城大佬` &ensp;  暂时不知道订阅入口  
 - https://3k.fxxk.dedyn.io/auto  &ensp;  `3K大佬`
 - https://VLESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vless 订阅器`
 - https://VMESS.fxxk.dedyn.io/auto  &ensp;  `CM大佬-vmess 订阅器`
 - https://vless-4ca.pages.dev/auto  &ensp;  `CM大佬-vless 订阅器`
 - https://WARP.fxxk.dedyn.io/auto  &ensp;  `CM大佬-Warp+ 订阅器`
-- https://yusub.yutian81.top    &ensp;  `自行搭建的`  &ensp;  隐藏入口 &nbsp; TOKEN
+- https://yusub.yutian81.top    &ensp;  `自行搭建的`  &ensp;  隐藏订阅入口  
 ## 自定义订阅，手动使用上述订阅器
 #### vless pages
 - https://VLESS.fxxk.dedyn.io/sub?host=[你的VLESS域名]&uuid=[你的UUID]&path=[你的ws路径]
