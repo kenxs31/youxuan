@@ -6,8 +6,8 @@ https://spurl.api.030101.xyz
 - 要下载指定字节数，请使用格式：spurl.api.030101.xyz/数字
 - 要下载指定千字节（KB）为单位，请使用格式：spurl.api.030101.xyz/数字kb
 - 要下载指定兆字节（MB）为单位，请使用格式：spurl.api.030101.xyz/数字mb
-- 要下载指定千兆字节（GB）为单位，请使用格式：spurl.api.030101.xyz/数字gb  
-示例
+- 要下载指定千兆字节（GB）为单位，请使用格式：spurl.api.030101.xyz/数字gb
+## 示例
 - 要下载 10000 字节：spurl.api.030101.xyz/10000
 - 要下载 10 千字节：spurl.api.030101.xyz/10kb
 - 要下载 100 兆字节：spurl.api.030101.xyz/100mb
