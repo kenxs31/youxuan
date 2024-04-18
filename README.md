@@ -41,7 +41,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 - PROXYIP=反代IP或域名,可填写多个用英文`,`分隔
 - **[反代域名搜集](https://github.com/yutian81/freefq/blob/main/PROXYIP.md)**
 ## 托管在 CF CDN 上的网站，可通过工具解析获得优选IP
-- **[CF CDN 优选域名](https://github.com/yutian81/freefq/blob/main/souji/cf-domain.md)**
+- **[已解析出IP的CF CDN域名](https://github.com/yutian81/freefq/blob/main/souji/cf-domain.md)**
 ## 其他文件说明
 - yip：**[优选IP列表](https://github.com/yutian81/freefq/blob/main/yip)**
 - IPtest文件夹：存放优选IP测速文件`csv文件`，没有维护，请自行获取
