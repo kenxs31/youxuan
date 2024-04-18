@@ -55,7 +55,7 @@ proxyip.sg.fxxk.dedyn.io,proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.
 - https://ghproxy.net/https://raw.githubusercontent.com/yutian81/freefq/main/yip
   
 ## SUBCONFIG变量
-- https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini
+- https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini
   
 ## ADDNOTLS变量
 #### 官方优选域名80
