@@ -15,7 +15,7 @@
 *cc 非必填项，可能会影响使用在线订阅转换,推荐使用地区代号，例如HK、SG、US*  
 *alterid 非必填项，默认0*  
 *security 非必填项，默认auto*  
-- https://VMess.fxxk.dedyn.io/sub?host=[你的VMess域名]&uuid=[你的UUID]&path=[你的ws路径]
+- https://VMess.fxxk.dedyn.io/sub?host=[你的VMess域名]&uuid=[你的UUID]&path=[你的ws路径]  
 *worker不支持VMess！*
 ## 订阅器变量说明
 - UUID=UUID  
