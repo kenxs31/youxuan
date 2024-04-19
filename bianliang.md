@@ -52,7 +52,7 @@ proxyip.sg.fxxk.dedyn.io,proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.
 - https://cu.xxxxxxxx.tk
 - https://ctv6.xxxxxxxx.tk
 - https://cuv6.xxxxxxxx.tk
-- https://ghproxy.net/https://raw.githubusercontent.com/yutian81/freefq/main/yip
+- https://ghproxy.net/https://raw.githubusercontent.com/yutian81/freefq/main/yip </br>或国内镜像https://gitee.com/yutian88881/IP-DATE/raw/master/yip.txt
   
 ## SUBCONFIG变量
 - https://ghproxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini
