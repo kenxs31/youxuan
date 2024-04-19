@@ -9,7 +9,7 @@
 - https://sub.kaiche.tk/?token=auto  &ensp;  `OTC 大佬`
 - http://allsub.king361.cf  &ensp;  `KING 大佬`  
 - https://yusub.yutian81.top    &ensp;  `自行搭建的`  &ensp;  隐藏订阅入口
-- 可将大佬的订阅器合并为一个订阅合计。[项目地址与教程](https://github.com/cmliu/CF-Workers-SUB)
+- 可将大佬的订阅器合并为一个订阅合集。[项目地址与教程](https://github.com/cmliu/CF-Workers-SUB)
 ## 自定义订阅，手动使用上述订阅器
 #### vless pages
 - https://VLESS.fxxk.dedyn.io/sub?host=[你的VLESS域名]&uuid=[你的UUID]&path=[你的ws路径]
